@@ -1,0 +1,11 @@
+.vscode/
+.metals/
+.bloop/
+.idea*
+target/
+/bin/
+/data/
+.minio/
+.dynamodb-local/
+.kafka*/
+.zookeeper*/
